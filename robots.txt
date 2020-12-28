@@ -1,1 +1,1 @@
-Sitemap: https://nicjac.github.io/blog/sitemap.xml
+Sitemap: https://www.nicjac.dev/sitemap.xml
