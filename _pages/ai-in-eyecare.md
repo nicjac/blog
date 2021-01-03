@@ -8,8 +8,9 @@ permalink: /ai-in-eyecare/
 
 - Around 250 million people in the world are blind or visually impaired [^1]
 - 75% of those cases can be prevented or cured based on existing prophylaxis, drugs, or surgical interventions
+- [Orbis](www.orbis.org), the NGO I work for, specializes in the logistics of training healthcare professionals in low- and middle-income countries, and ensure patients receive best-of-class eyecare and treatments.
 
-### The need to act right away
+### Urgent action is required
 
 - Number of blind people expected to triple by 2050 [^2]
 
