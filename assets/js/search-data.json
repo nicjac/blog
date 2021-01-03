@@ -29,7 +29,7 @@
   
       ,"page2": {
           "title": "AI in Eyecare",
-          "content": "Most cases of blindness worldwide are preventable . Around 250 million people in the world are blind or visually impaired | 75% of those cases can be prevented or cured based on existing prophylaxis, drugs, or surgical interventions | . The need to act right away . Number of blind people expected to triple by 2050 [^1] | . [^1] https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr .",
+          "content": "Most cases of blindness worldwide are preventable . Around 250 million people in the world are blind or visually impaired | 75% of those cases can be prevented or cured based on existing prophylaxis, drugs, or surgical interventions | . The need to act right away . Number of blind people expected to triple by 2050 1 | . https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr &#8617; . |",
           "url": "https://www.nicjac.dev/ai-in-eyecare/",
           "relUrl": "/ai-in-eyecare/",
           "date": ""
