@@ -13,4 +13,4 @@ permalink: /ai-in-eyecare/
 
 - Number of blind people expected to triple by 2050 [^1]
 
-[^1] https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr
+[^1]: [https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr](<https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr>)
