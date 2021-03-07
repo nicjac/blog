@@ -21,14 +21,14 @@ More information on my [LinkedIn page](https://www.linkedin.com/in/nicolasjaccar
 ### 🎓 Education
 
 - PhD in Biomedical Image Processing @ [University College London](https://www.ucl.ac.uk/) ([CoMPLEX](https://www.ucl.ac.uk/complex/) + [Biochemical Engineering](https://www.ucl.ac.uk/biochemical-engineering/))
-
 - M.Res. in Modeling Biological Complexity @ [University College London](https://www.ucl.ac.uk/) ([CoMPLEX](https://www.ucl.ac.uk/complex/))
-
 - B.Sc. in Biotechnology @ [HES-SO Valais](https://www.hevs.ch/en/)
 
 ### 📜 Publications and Public Speaking
 
 Most of my publications are listed on my [Google Scholar page](https://scholar.google.com/citations?user=pMaHB9QAAAAJ&hl=en).
+
+[![Mobile World Congress 2019](/images/MWC.jpeg)](/images/MWC.jpeg)
 
 I've presented at a variety of venues in the past. My personal highlights include:
 
