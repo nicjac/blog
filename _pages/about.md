@@ -11,7 +11,7 @@ permalink: /about/
 
 ### 💼 Professional Experience
 
-More information on my [LinkedIn page](www.linkedin.com/in/nicolasjaccard).
+More information on my [LinkedIn page](https://www.linkedin.com/in/nicolasjaccard).
 
 - Principal AI Architect @ [Orbis International](www.orbis.org)
 - CTO @ Predina (AI for road safety)
