@@ -4,6 +4,10 @@ title: AI in Eyecare
 permalink: /ai-in-eyecare/
 ---
 
+As `Principal AI Architect` at [Orbis](www.orbis.org), my goal is to ensure that communities in low- and middle-icome countries are not left behind by the AI in healthcare / eye care revolution.
+
+This page explains why urgent action is required, and what can be done about it.
+
 ### Most cases of blindness worldwide are preventable
 
 - Around 250 million people in the world are blind or visually impaired [^1]
@@ -13,7 +17,7 @@ permalink: /ai-in-eyecare/
 ### Urgent action is required
 
 - The number of blind people expected to triple by 2050 [^2]
-- It is likely that low- and middle-income countries will be disproportionately impacted.
+- It is likely that communities in low- and middle-income countries will be disproportionately impacted.
 
 [^1]: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5820628/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5820628/)
 [^2]: [https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr](<https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(17)30293-0/fulltext?elsca1=tlpr>)

@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
 ---
+
+I am the `Principal AI Architect` at [Orbis](www.orbis.org), a global non-profit organization aiming at eliminating preventable blindness worldwide. For more information about our work, see [AI in Eyecare](/ai-in-eyecare/).
 
 ### 🌍 Location(s)
 
