@@ -37,7 +37,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: false
+  ShowShareButtons: true
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
@@ -83,9 +83,9 @@ params:
   homeInfoParams:
     Title: "Hi there \U0001F44B"
     Content: >
-      Welcome to my blog! I am Nicolas Jaccard, an engineer with experience working across academia, startups, and global non-profit organizations.
+      Welcome to my blog! I am Nicolas Jaccard, an engineer with experience working across academia, startups, and global non-profit organizations. Read more in the [about me](/about) section.
 
-      I write about AI/ML for good, applied AI/ML, and MLOps.
+      I write about AI for good, applied AI, and MLOps.
 
   socialIcons:
     - name: twitter
