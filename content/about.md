@@ -4,6 +4,7 @@ menu: "main"
 weight: 1
 hideMeta: true
 showtoc: false
+disableShare: true
 ---
 
 I am the `Principal Architect` at [Orbis](www.orbis.org), a global non-profit organization aiming at eliminating preventable blindness worldwide. 
