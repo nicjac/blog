@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Applied AI on Reasonable AI</title>
+    <link>https://nicjac.dev/categories/applied-ai/</link>
+    <description>Recent content in Applied AI on Reasonable AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 30 Dec 2021 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/categories/applied-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good practices for neural network training: identify, save, and document best models</title>
+      <link>https://nicjac.dev/posts/identify-best-model/</link>
+      <pubDate>Thu, 30 Dec 2021 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/posts/identify-best-model/</guid>
+      <description>&lt;p&gt;An introduction to the concept of &lt;em&gt;best model&lt;/em&gt; when training a neural network and why it encourages good practices, and a practical implementation using fastai and Weights &amp;amp; Biases&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
