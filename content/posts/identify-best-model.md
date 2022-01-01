@@ -6,7 +6,7 @@ tags: ["Deep Learning", "AI", "Weights&Biases", "fastai", "good practices"]
 categories: ["Applied AI"]
 ---
 
-An introduction to the concept of *best model* when training a neural network and why it encourages good practices, and a practical implementation using fastai and Weights & Biases
+An introduction to the good practice of *best model* saving when training a neural network, and a practical implementation using fastai and Weights & Biases
 
 <!--more-->
 

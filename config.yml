@@ -17,7 +17,7 @@ minify:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Reasonable AI
-  description: "A blog about applied Artificial Intelligence and Machine Learning"
+  description: "A blog by Nicolas Jaccard about applied Artificial Intelligence"
   keywords:
     [
       Blog,
