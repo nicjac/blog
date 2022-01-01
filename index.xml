@@ -23,7 +23,7 @@
       <pubDate>Thu, 30 Dec 2021 10:00:08 +0000</pubDate>
       
       <guid>https://nicjac.dev/posts/identify-best-model/</guid>
-      <description>&lt;p&gt;An introduction to the concept of &lt;em&gt;best model&lt;/em&gt; when training a neural network and why it encourages good practices, and a practical implementation using fastai and Weights &amp;amp; Biases&lt;/p&gt;</description>
+      <description>&lt;p&gt;An introduction to the good practice of &lt;em&gt;best model&lt;/em&gt; saving when training a neural network, and a practical implementation using fastai and Weights &amp;amp; Biases&lt;/p&gt;</description>
     </item>
     
   </channel>
