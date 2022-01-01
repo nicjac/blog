@@ -4,6 +4,8 @@ date: 2021-12-30T10:00:08Z
 draft: false
 tags: ["Deep Learning", "AI", "Weights&Biases", "fastai", "good practices"]
 categories: ["Applied AI"]
+images:
+   - /images/training/overfitting-best-model.png
 ---
 
 An introduction to the good practice of *best model* saving when training a neural network, and a practical implementation using fastai and Weights & Biases
