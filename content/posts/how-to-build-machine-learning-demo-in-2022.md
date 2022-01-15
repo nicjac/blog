@@ -5,12 +5,14 @@ draft: false
 tags: ["Deep Learning", "AI", "Demos", "Gradio","Streamlit","Hugging Face"]
 categories: ["Applied AI", "Deployment"]
 images:
-   - /images/training/overfitting-best-model.png
+   - /images/demos/demo-splash.png
 ---
 
 Learn **why** you should build demos for your Machine Learning models in 2022, and **how** to do it in a way that fits your needs, skills, and audience.
 
 <!--more-->
+
+{{< figure align=center src="/images/demos/demo-splash.png" >}}
 
 ## Why Demos Are Now Essential
 Interactive demos of machine learning models are getting increasingly popular. After all, just like a picture paints a thousand words, nothing beats letting others interact directly with your model to generate interest. If you are interested in keeping up with recent trends or are looking for inspiration for your own demos, I highly recommend following the [@ak92501 twitter account](https://twitter.com/ak92501). 
