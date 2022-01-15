@@ -1,5 +1,5 @@
 ---
-title: "The 'Show, Don't Tell' era of Deep Learning: Demos, Demos, Demos!"
+title: "How to Build a Machine Learning Demo in 2022"
 date: 2022-01-14T10:00:08Z
 draft: false
 tags: ["Deep Learning", "AI", "Demos", "Gradio","Streamlit","Hugging Face"]
@@ -8,7 +8,7 @@ images:
    - /images/training/overfitting-best-model.png
 ---
 
-Learn **why** you should build demos for your models in 2022, and **how** to do it in a way that fits your needs and audience.
+Learn **why** you should build demos for your Machine Learning models in 2022, and **how** to do it in a way that fits your needs, skills, and audience.
 
 <!--more-->
 
@@ -39,7 +39,7 @@ While Deep Learning was taking over the world, new tools and development paradig
 
 ## How To Build An Interactive Demo in 2022
 
-There are a variety of ways to build an interactive demo for your Deep Learning model in 2022. Which one you pick will depend on:
+There are a variety of ways to build an interactive demo for your Machine Learning model in 2022. Which one you pick will depend on:
 - Your target audience
 - Your software engineering skills
 - Your monetary budget
@@ -131,7 +131,7 @@ Before diving into the back and front end components below, let's have a look at
 
 #### Back End
 
-An exhaustive discussion of the different technology stacks for back end development is out of scope of this article. However, given that most machine learning engineers working on deep learning applications are at least familiar with Python, we will focus on Python-based back end solutions. 
+An exhaustive discussion of the different technology stacks for back end development is out of scope of this article. However, given that most machine learning engineers working on machine learning applications are at least familiar with Python, we will focus on Python-based back end solutions. 
 
 {{< figure align=center src="/images/demos/demo-back-end-examples.png" caption="Different tools for back end development: general-purpose web frameworks, serving libraries, and framework-specific serving libraries. Image by the author." >}}
 
@@ -222,4 +222,4 @@ If you are interested in deploying both Gradio and Streamlit apps, [Hugging Face
 
 Deploying apps developed using either Gradio or Streamlit got a whole lot easier when [Hugging Face](https://huggingface.co/) added [Spaces](https://huggingface.co/spaces) to their ecosystem of ML products and tools. Spaces are similar to Github Pages -- code is committed to a repository, and the app is automatically build and served. When creating a space, you pick between Streamlit, Gradio, and Static (which more or less replicates Github Pages' static website hosting capabilities). The Space is then automatically setup to accommodate your library of choice. Useful features such as versioning and the ability for users to like a space make it a great experience for the deployment of a public machine learning demo.
 
-Similarly to how Google Colab democratized access to compute resources required for training deep neural network, Hugging Face Spaces allow anyone to host a demo for the world to check out. This means that the entire machine learning workflow, from model training to deployment of an interactive demo, can now be carried out for free and almost entirely in Python.
+Similarly to how Google Colab democratized access to compute resources required for state-of-the-art machine learning models, Hugging Face Spaces allow anyone to host a demo for the world to check out. This means that the entire machine learning workflow, from model training to deployment of an interactive demo, can now be carried out for free and almost entirely in Python.
