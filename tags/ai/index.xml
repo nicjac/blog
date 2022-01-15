@@ -5,7 +5,16 @@
     <link>https://nicjac.dev/tags/ai/</link>
     <description>Recent content in AI on Reasonable AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The &#39;Show, Don&#39;t Tell&#39; era of Deep Learning: Demos, Demos, Demos!</title>
+      <link>https://nicjac.dev/posts/show-dont-tell-era/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/posts/show-dont-tell-era/</guid>
+      <description>&lt;p&gt;Learn &lt;strong&gt;why&lt;/strong&gt; you should build demos for your models in 2022, and &lt;strong&gt;how&lt;/strong&gt; to do it in a way that fits your needs and audience.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Good practices for neural network training: identify, save, and document best models</title>
       <link>https://nicjac.dev/posts/identify-best-model/</link>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Demos on Reasonable AI</title>
+    <link>https://nicjac.dev/tags/demos/</link>
+    <description>Recent content in Demos on Reasonable AI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 14 Jan 2022 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/tags/demos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The &#39;Show, Don&#39;t Tell&#39; era of Deep Learning: Demos, Demos, Demos!</title>
+      <link>https://nicjac.dev/posts/show-dont-tell-era/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/posts/show-dont-tell-era/</guid>
+      <description>&lt;p&gt;Learn &lt;strong&gt;why&lt;/strong&gt; you should build demos for your models in 2022, and &lt;strong&gt;how&lt;/strong&gt; to do it in a way that fits your needs and audience.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

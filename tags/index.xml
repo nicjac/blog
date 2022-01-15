@@ -5,11 +5,11 @@
     <link>https://nicjac.dev/tags/</link>
     <description>Recent content in Tags on Reasonable AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AI</title>
       <link>https://nicjac.dev/tags/ai/</link>
-      <pubDate>Thu, 30 Dec 2021 10:00:08 +0000</pubDate>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
       
       <guid>https://nicjac.dev/tags/ai/</guid>
       <description></description>
@@ -18,9 +18,45 @@
     <item>
       <title>Deep Learning</title>
       <link>https://nicjac.dev/tags/deep-learning/</link>
-      <pubDate>Thu, 30 Dec 2021 10:00:08 +0000</pubDate>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
       
       <guid>https://nicjac.dev/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demos</title>
+      <link>https://nicjac.dev/tags/demos/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/tags/demos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gradio</title>
+      <link>https://nicjac.dev/tags/gradio/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/tags/gradio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugging Face</title>
+      <link>https://nicjac.dev/tags/hugging-face/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/tags/hugging-face/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Streamlit</title>
+      <link>https://nicjac.dev/tags/streamlit/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/tags/streamlit/</guid>
       <description></description>
     </item>
     

@@ -5,13 +5,22 @@
     <link>https://nicjac.dev/categories/</link>
     <description>Recent content in Categories on Reasonable AI</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 30 Dec 2021 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Jan 2022 10:00:08 +0000</lastBuildDate><atom:link href="https://nicjac.dev/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Applied AI</title>
       <link>https://nicjac.dev/categories/applied-ai/</link>
-      <pubDate>Thu, 30 Dec 2021 10:00:08 +0000</pubDate>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
       
       <guid>https://nicjac.dev/categories/applied-ai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deployment</title>
+      <link>https://nicjac.dev/categories/deployment/</link>
+      <pubDate>Fri, 14 Jan 2022 10:00:08 +0000</pubDate>
+      
+      <guid>https://nicjac.dev/categories/deployment/</guid>
       <description></description>
     </item>
     
