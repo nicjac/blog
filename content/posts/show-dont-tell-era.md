@@ -1,9 +1,9 @@
 ---
 title: "The 'Show, Don't Tell' era of Deep Learning: Demos, Demos, Demos!"
-date: 2022-01-15T10:00:08Z
+date: 2022-01-14T10:00:08Z
 draft: false
-tags: ["Deep Learning", "AI", "Demos", "Streamlit", "Gradio", "Hugging Face"]
-categories: ["Applied AI"]
+tags: ["Deep Learning", "AI", "Demos", "Gradio","Streamlit","Hugging Face"]
+categories: ["Applied AI", "Deployment"]
 images:
    - /images/training/overfitting-best-model.png
 ---
