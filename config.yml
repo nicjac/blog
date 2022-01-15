@@ -92,6 +92,10 @@ params:
       url: "https://twitter.com/nicjac"
     - name: github
       url: "https://github.com/nicjac"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/nicolasjaccard/"
+    - name: medium
+      url: "https://medium.com/@nicjac"
 
   # analytics:
   #   google:
